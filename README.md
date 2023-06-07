@@ -22,9 +22,8 @@
 
 
 ## 👨‍💻 Contributors
-###  Gauri Patil 
-###  Ashish Singh
-###  Vijit Singh
+###  Uday Gupta
+
 
 <br/>
 <br/>
